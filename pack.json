@@ -1,0 +1,10 @@
+{
+  "name": "Customize Rafflesia Online",
+  "description": "Slight edit of the song Customize from the album Rafflesia Online by Xploshi.",
+  "author": "PanWizard",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
